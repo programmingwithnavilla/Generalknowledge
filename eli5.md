@@ -16,5 +16,5 @@
                                                                                                     
 [https://medium.com/](https://medium.com/)                                    
                                      
-                                                                                  لینک چنل یوتیوب برای آموزش های برنامه نویسی بیشتر:
+ لینک چنل یوتیوب برای آموزش های برنامه نویسی بیشتر:
 https://www.youtube.com/channel/UCvAlxUP7S_2SE5p-YNikMUA
